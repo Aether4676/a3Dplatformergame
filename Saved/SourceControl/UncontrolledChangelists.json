@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/Content/Blueprint/BP_customGamemode.uasset",
+				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/Content/ImputActions/IA_Move.uasset",
+				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/Content/ImputActions/IA_Jump.uasset",
 				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/a3DplatformerGame/Content/levels/Level1_HLOD0_Instancing.uasset",
 				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/a3DplatformerGame/Content/__ExternalActors__/levels/Level1/E/R2/89CTEQ8UTTVF5NGN8YZDUB.uasset",
 				"C:/Users/wallacex564/Documents/GitHub/a3Dplatformergame/a3DplatformerGame/Content/__ExternalObjects__/levels/Level1/4/B0/YLKRUCBA8AE8OV1ZUF7NZ8.uasset",
